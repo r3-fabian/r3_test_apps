@@ -8,3 +8,6 @@ It also includes an scheduled function, that will run daily and update the curre
 
 ## test_kanban
 This app showcases how the kanban field does work. 
+
+## lsw_testing_pdf_only_43
+This app showcases how PDF generation via frontend does work.
